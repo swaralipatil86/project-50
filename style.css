@@ -1,0 +1,35 @@
+.oragami{
+    border-radius: 20px;
+    background-color :white;  
+    width:310px;
+    
+    
+  
+}
+
+body{
+    background-color:#ffffff;
+}
+.grid {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color: whitesmoke;
+}
+  
